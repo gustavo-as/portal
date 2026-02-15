@@ -8,6 +8,6 @@ class PortalApplicationTests {
 
     @Test
     void contextLoads() {
+        // apenas verifica se o contexto carrega
     }
-
 }
